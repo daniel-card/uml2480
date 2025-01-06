@@ -1,6 +1,6 @@
 {
     "name":"INFO 2480",
-    "version":"1.0.23",
+    "version":"2.0.1",
     "author":"Dan Card",
     "location":"ForgeboxStorage",
     "slug":"uml-2480",
@@ -24,9 +24,7 @@
     },
     "installPaths":{},
     "dependencies":{},
-    "scripts":{
-        "postinstall":"task run"
-    },
+    "scripts":{},
     "testbox":{
         "runner":"/tests/runner.cfm"
     }
