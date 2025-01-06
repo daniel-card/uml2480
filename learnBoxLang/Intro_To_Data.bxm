@@ -1,7 +1,7 @@
 <article id="47d25971-df7a-4114-94c4-e4c3df030016" class="page sans">
     <header><h1 class="page-title">Intro To Data</h1></header>
     <div class="page-body"><p id="493ed74e-bf3b-48d3-bf0b-d828c8752b29" class="">The whole focus of this class is
-        leading up to integrating databases with a web site. We&#x27;ve looked at the front end languages display the
+        leading up to integrating databases with a web site. We&#x27;ve looked at how the front end languages display the
         layout, colors and receives the content. We&#x27;ve looked at how the database stores data which can be accessed
         by the controller level. No matter what the language, there needs to be a connection between the server side script
         server and the database server. Each language creates this connection in its own way. ColdFusion does it by

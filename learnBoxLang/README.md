@@ -1,7 +1,5 @@
 # learncf
 
-If you are installing this as part of the class,n use CommandBox and go to the /ThisIsTheRootOfTheWebSite/your_folder and type `install git://github.com/djcard/learncf.git`. 
+To install this package, create an empty folder. Using CommandBox, navigate to that folder and type ```install uml-2480```.
 
-If you are looking at this outside of the context of the class you can simply type `install git://github.com/djcard/learncf.git` in an empty folder, cd to /learncf, and then type `server start` to see the content.
-
-
+After it completes, type ```server start``` to open the site and read the content. 
